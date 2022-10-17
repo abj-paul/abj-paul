@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abj-paul" alt="abj-paul" /></a> </p>
 
-- 🔭 I’m currently working on **BLP Research projects.**
+- 🔭 I’m currently working on [BLP Research projects.](https://github.com/abj-paul/NLP-Library)
 
 - 🌱 I’m currently learning **Frameworks and ethereum.**
 
@@ -15,12 +15,9 @@
 
 - ⚡ Interest **Wuxia, Fantasy and Team Works.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/abhijit.paul.5667901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abhijit.paul.5667901/" height="30" width="40" /></a>
 <a href="https://medium.com/@daoist.paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daoist.paul" height="30" width="40" /></a>
 </p>
 
