@@ -1,4 +1,4 @@
-<h3 align="center">A project-driven learner, FOSS enthusiast and a Daoist from Bangladesh.</h3>
+<h3 align="center">A FOSS enthusiast and Daoist from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abj-paul&label=Profile%20views&color=0e75b6&style=flat" alt="abj-paul" /> </p>
 
