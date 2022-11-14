@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on [BLP Research projects.](https://github.com/abj-paul/NLP-Library)
 
-- 🌱 I’m currently learning **Frameworks and ethereum.**
-
-- 📝 I regularly write articles on [abj-paul.github.io](abj-paul.github.io)
-
 - 📫 How to reach me **bsse1201@iit.du.ac.bd**
 
 - ⚡ Interest **Wuxia, Fantasy and Team Works.**
