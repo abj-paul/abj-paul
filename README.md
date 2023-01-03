@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [BLP Research projects.](https://github.com/abj-paul/NLP-Library)
 
-- 📫 How to reach me **bsse1201@iit.du.ac.bd**
-
 - ⚡ Interest **Wuxia, Fantasy and Team Works.**
 
 <h3 align="left">Connect with me:</h3>
