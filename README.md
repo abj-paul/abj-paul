@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abj-paul&label=Profile%20views&color=0e75b6&style=flat" alt="abj-paul" /> </p>
 
-- 🔭 I’m currently working on [BLP Research projects.](https://github.com/abj-paul/NLP-Library)
+- 🔭 I’m currently working on BLP Research projects.
 
-- ⚡ Interest **Wuxia, Fantasy and Team Works.**
+- ⚡ Interest **Wuxia, Her and Team Works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
