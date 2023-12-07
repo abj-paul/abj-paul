@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BLP Research projects.
 
-- ⚡ Interest **Wuxia, Her and Team Works.**
+- ⚡ Interest **Wuxia, Problem Solving and Team Works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
