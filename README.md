@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abj-paul&label=Profile%20views&color=0e75b6&style=flat" alt="abj-paul" /> </p>
 
-- 🔭 I’m currently working on BLP Research projects.
+- 🔭 I’m currently working on Formal Methods in Software Engineering.
 
 - ⚡ Interest **Wuxia, Problem Solving and Team Works.**
 
